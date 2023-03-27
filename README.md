@@ -172,15 +172,14 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
-###
+```
 LED ON CONDITION
 ![exp 2 led on](https://user-images.githubusercontent.com/118680259/227897092-125e8922-96be-41b4-a7fa-039664da7feb.jpeg)
 
 ###
 LED OFF CONDITION
 ![exp 2 led off](https://user-images.githubusercontent.com/118680259/227897003-429d3033-01c8-46e6-a866-8297603de7e5.jpeg)
-
- 
+ ```
  
  
  
